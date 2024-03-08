@@ -1,5 +1,5 @@
-# Aggerator Tool
-
+# Aggregator Tool
+---
 - [Key Features](#key-features)
 - [How it Works](#how-it-works)
 - [Benefits](#benefits)
