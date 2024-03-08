@@ -3,7 +3,7 @@
 - [Key Features](#key-features)
 - [How it Works](#how-it-works)
 - [Benefits](#benefits)
-- [VBA script](vba-script)
+- [VBA script](#vba-script)
 
 This sophisticated Excel project addresses the challenge of efficiently managing a list of customer names, their associated orders, and corresponding dates. The primary objectives include the extraction of unique customer names, the creation of individualized sheets for each customer, detailed presentation of customer-specific information within these sheets, and the culmination of this data into a comprehensive dashboard.
 
